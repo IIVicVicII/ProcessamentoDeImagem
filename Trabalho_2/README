@@ -1,0 +1,6 @@
+Victor Gabriel Rodrigues da Silva GRR20231959
+
+Instruções
+
+Para utilizar o código basta colocar as imagens nos diretórios "NoPneumo" e "Pneumo", 
+e rodar o script python "main.py", onde vai gerar um txt com os resultados da analise.

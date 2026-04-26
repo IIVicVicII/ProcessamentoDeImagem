@@ -1,0 +1,47 @@
+RELATÓRIO DE CLASSIFICAÇÃO - HISTOGRAMAS DICOM
+==================================================
+
+MÉTODO: CORRELATION
+--------------------
+Matriz de Confusão:
+            Prev P | Prev N
+Real P (Pos):   6   |    9
+Real N (Neg):   6   |    9
+Sensibilidade: 40.00%
+Especificidade: 60.00%
+
+==================================================
+
+MÉTODO: CHI-SQUARE
+--------------------
+Matriz de Confusão:
+            Prev P | Prev N
+Real P (Pos):  11   |    4
+Real N (Neg):   9   |    6
+Sensibilidade: 73.33%
+Especificidade: 40.00%
+
+==================================================
+
+MÉTODO: INTERSECTION
+--------------------
+Matriz de Confusão:
+            Prev P | Prev N
+Real P (Pos):   8   |    7
+Real N (Neg):  10   |    5
+Sensibilidade: 53.33%
+Especificidade: 33.33%
+
+==================================================
+
+MÉTODO: BHATTACHARYYA
+--------------------
+Matriz de Confusão:
+            Prev P | Prev N
+Real P (Pos):   5   |   10
+Real N (Neg):   9   |    6
+Sensibilidade: 33.33%
+Especificidade: 40.00%
+
+==================================================
+
